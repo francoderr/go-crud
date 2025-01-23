@@ -1,3 +1,3 @@
 # Go Rest API
-# using Echo framework
-# mongodb
+Echo framework
+mongodb
